@@ -14,3 +14,5 @@ https://github.com/Lokesh-ctr/23CSBTB29/blob/main/AIML%20Lab1.ipynb
 https://github.com/Lokesh-ctr/23CSBTB29/blob/main/Aiml%20lab2.ipynb
 
 https://github.com/Lokesh-ctr/23CSBTB29/blob/main/Aiml%20lab3.ipynb
+
+https://github.com/Lokesh-ctr/23CSBTB29/blob/main/Aiml%20lab4.ipynb
